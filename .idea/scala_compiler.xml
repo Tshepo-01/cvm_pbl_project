@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="cvm_pbl_project">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\abtmb42\Documents\DE_Training\cvm_pbl_project\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
